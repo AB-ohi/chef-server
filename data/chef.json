@@ -4,7 +4,7 @@
         "chefPicture":"https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/vkhanna.jpg",
         "chefName":"Vikas Khanna",
         "yarsExperience":"2",
-        "Recipes":"",
+        "Recipes":"8",
         "Likes":"4.2"
     },
     {
@@ -12,7 +12,7 @@
         "chefPicture":"https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/vicky-ratnani-1.jpg",
         "chefName":"Vicky Ratnani",
         "yarsExperience":"5",
-        "Recipes":"",
+        "Recipes":"10",
         "Likes":"3"
     },
     {
@@ -20,7 +20,7 @@
         "chefPicture":"https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/ajay-chopra-1.jpg",
         "chefName":"Ajay Chopra",
         "yarsExperience":"4",
-        "Recipes":"",
+        "Recipes":"7",
         "Likes":"3.7"
     },
     {
@@ -28,7 +28,7 @@
         "chefPicture":"https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/kunal-kapoor-1.jpg",
         "chefName":"Kunal Kapur",
         "yarsExperience":"2",
-        "Recipes":"",
+        "Recipes":"9",
         "Likes":"5"
     },
     {
@@ -36,7 +36,7 @@
         "chefPicture":"https://www.discoverwalks.com/blog/wp-content/uploads/2022/10/720px-mehmet_gurs_2.jpg",
         "chefName":"Mehmet Gürs",
         "yarsExperience":"4",
-        "Recipes":"",
+        "Recipes":"5",
         "Likes":"5.8"
     },
     {
@@ -44,7 +44,7 @@
         "chefPicture":"https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto,q_auto:eco,c_limit/pankaj-bhadouria-1.jpg",
         "chefName":"Pankaj Bhadouria",
         "yarsExperience":"3",
-        "Recipes":"",
+        "Recipes":"8",
         "Likes":"4.8"
     }
 ]
