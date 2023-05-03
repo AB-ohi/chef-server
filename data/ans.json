@@ -13,6 +13,6 @@
     },
     {
         "question":"What is a custom hook, and why will you create a custom hook?",
-        "ans":""
+        "ans":"you might create a custom hook that fetches data from an API and returns it to your component. By abstracting this logic into a custom hook, you can reuse it across multiple components and keep your components focused on rendering and displaying data rather than fetching it."
     }
 ]
