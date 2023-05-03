@@ -3,6 +3,7 @@ const app = express()
 const port = process.env.port || 1000
 
 const chef = require('./data/chef.json')
+const ans = require('./data/ans.json')
 
 app.get('/', (req, res) =>{
     res.send('restureand is running')
@@ -10,6 +11,9 @@ app.get('/', (req, res) =>{
 
 app.get('/chef',(req, res) =>{
     res.send(chef)
+})
+app.get('/ans',(req, res) =>{
+    res.send(ans)
 })
 
 app.listen(port, ()=>{
